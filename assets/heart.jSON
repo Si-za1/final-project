@@ -1,0 +1,59 @@
+[
+    {
+        "1": "What is the average size of heart ? ",
+        "2": "The mammal with the largest heart is...",
+        "3": ".... is good for heart as it reduces stress and gives boost to your immunity system.",
+        "4": "What reduces risk of heart diseases? ",
+        "5": ".... contains .... , which helps you protect your arteries and promote proper blood clotting.",
+        "6": "You should at least exercise for .... to have a healthy heart."
+    },   
+        
+    {
+        "1": {
+            "a": "The size of a foot in an adult",
+            "b": "The size if a baby's head",
+            "c": "The size of an elephant's eye ",
+            "d": "The size of a fist in an adult"
+        },
+        "2": {
+            "a": "Elephant",
+            "b": "Giraffe",
+            "c": "Human",
+            "d": "None of the above"
+        },
+        "3": {
+            "a": "Crying",
+            "b": "Laughing",
+            "c": "Sleeping",
+            "d": "Eating"
+        },
+        "4": {
+            "a": "Lemon",
+            "b": "Whole grains",
+            "c": "Chicken",
+            "d": "None of the above"
+        },
+        "5": {
+            "a": "Tofu and Omega-3",
+            "b": "Carrot and Vitamin D",
+            "c": "Egg and Vitamin C",
+            "d": "Green Vegetables and Vitamin K"
+        },
+        "6": {
+            "a": "50 minutes",
+            "b": "30 minutes",
+            "c": "40 minutes",
+            "d": "Never"
+        }
+    },    
+    
+    {
+        "1": "The size of a fist in an adult",
+        "2": "None of the above",
+        "3": "Laughing",
+        "4": "Whole grains",
+        "5": "Green Vegetables and Vitamin K",
+        "6": "30 minutes"
+        
+    }
+]

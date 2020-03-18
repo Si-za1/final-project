@@ -1,0 +1,58 @@
+[
+    {
+        "1":"The brain region for processing smell for women is upto .... larger than in men.",
+        "2":"How many basic nose shapes are there?",
+        "3":"At what speed do we sneeze?",
+        "4":"Which organ hepls you find a mate.",
+        "5":"What does the shape of the nose depend on?",
+        "6":"Nose helps us to shape...." 
+
+    },
+    {
+        "1":{
+            "a": "40%",
+            "b": "30%",
+            "c": "55%",
+            "d": "50%"
+        },
+        "2":{
+            "a": "20",
+            "b": "14",
+            "c": "10",
+            "d": "15"
+        },
+        "3":{
+            "a": "300 miles per hour",
+            "b": "400 miles per hour",
+            "c": "250 miles per hour",
+            "d": "500 miles per hour"
+        },
+        "4":{
+            "a": "Heart",
+            "b": "Brain",
+            "c": "Nose",
+            "d": "Eyes"
+        },
+        "5":{
+            "a": "Ethnic background of a person",
+            "b": "Mental background of a person",
+            "c": "Environmental background",
+            "d": "All of the above"
+        },
+        "6":{
+            "a": "Sound of our voice",
+            "b": "Our eye sight ",
+            "c": "Processing of digestive system",
+            "d": "All of the above"
+        }
+
+    },
+    {
+        "1": "50% ",
+        "2": "14",
+        "3": "300 miles per hour",
+        "4": "Nose",
+        "5": "Ethnic background of a person ",
+        "6": "Sound of our voice"
+    }
+]

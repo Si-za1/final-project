@@ -1,0 +1,60 @@
+
+[
+    {
+        "1": "What should be consumed to decrease dry eyes?",
+        "2": "During the continous use of gadgets, after how long should we rest our eyes?",
+        "3": "What does egg contain, which helps to decrease sight loss?",
+        "4": "What type of Rays do gadgets produce that are harmful to eyes? ",
+        "5": "Aloe Vera contains vitamin as well as antioxidant which helps in....",
+        "6": "To increase vision we need Vitamin A. Which of the following contains Vitamin A?"
+    },   
+        
+    {
+        "1": {
+            "a": "Egg and Aloe Vera",
+            "b": "Water and tofu",
+            "c": "Lemon and Carrot",
+            "d": "None of the above"
+        },
+        "2": {
+            "a": "50 minutes",
+            "b": "30 minutes",
+            "c": "20 minutes",
+            "d": "10 minutes"
+        },
+        "3": {
+            "a": "Iron, Vitamin D and Vitamin E",
+            "b": "Vitamin D, Vitamin C and Zinc",
+            "c": "Vitamin D, Vitamin C and Vitamin E",
+            "d": "Omega-3"
+        },
+        "4": {
+            "a": "White ray",
+            "b": "Blue Ray",
+            "c": "UV Ray",
+            "d": "Yellow light Ray"
+        },
+        "5": {
+            "a": "Tissue recovery",
+            "b": "Decreases dry eye",
+            "c": "Changing eye color",
+            "d": "None of the above"
+        },
+        "6": {
+            "a": "Egg",
+            "b": "Chocolate",
+            "c": "Lemon",
+            "d": "Carrot"
+        }
+    },    
+    
+    {
+        "1": "Water and tofu ",
+        "2": "20 minutes",
+        "3": "Vitamin D, Vitamin C and Zinc",
+        "4": "Blue Ray",
+        "5": "Tissue recovery",
+        "6": "Carrot"
+        
+    }
+]
